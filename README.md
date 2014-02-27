@@ -6,7 +6,18 @@ A simple Java GUI to learn graphs. I originally wrote JGrape in 2009 for my
 
 ![Screenshot](screenshot.png?raw=true)
 
-Since then I never touched it. The code is not so clean, mixing Portuguese with English, no MVC concept, and more. I'm posting it here because it works 
-(mostly) and it can help people.
+## Working Features:
 
-But hey! Pull requests are welcome.
+* Depth Traversal (_Profundidade_ Button)
+* Breadth Traversal (_Largura_ Button)
+* Number of Components (_Componentes_ Button)
+* Dijsktra Algorithm
+
+## Not Working Features:
+
+* Fleury
+* Center
+
+Since then I never touched it. The code is not so clean, mixing Portuguese with English, no MVC concept, lots of inner classes and more to go. I'm publishing it here because it works (mostly) and can help people.
+
+Pull requests are welcome!!
